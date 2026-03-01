@@ -32,6 +32,16 @@ De esta manera, usando este flujo, garantiza que cada línea de código tenga un
 
 ---
 
+## Descripción
+
+> Este proyecto implementa el clásico ejercicio FizzBuzz aplicando la metodología TDD (Test-Driven Development) con Java y JUnit 5.
+
+Se escribieron pruebas unitarias antes de codificar la lógica, siguiendo el ciclo Red-Green-Refactor. Cada prueba cubre un caso específico del problema: números sin múltiplos, múltiplos de 3, múltiplos de 5 y múltiplos de ambos. El objetivo principal no fue resolver FizzBuzz en sí, sino practicar la disciplina de dejar que las pruebas guíen el diseño del código.
+
+> El repositorio está configurado con Maven para la gestión de dependencias y compilación, usando JUnit Jupiter como framework de pruebas.
+
+---
+
 ## Tecnologías usadas
 
 - Java 11
